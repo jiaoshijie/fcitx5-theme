@@ -1,6 +1,6 @@
 # Fcitx5 Theme
 
-> ![NOTE]
+> [!NOTE]
 > fcitx5 single line mode
 
 [Ori-fcitx5 another really beautiful theme](https://github.com/Reverier-Xu/Ori-fcitx5)
