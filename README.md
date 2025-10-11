@@ -1,5 +1,10 @@
 # Fcitx5 Theme
 
+> ![NOTE]
+> fcitx5 single line mode
+
+[Ori-fcitx5 another really beautiful theme](https://github.com/Reverier-Xu/Ori-fcitx5)
+
 ## 便签纸
 
 - 没有输入框
